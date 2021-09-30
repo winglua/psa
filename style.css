@@ -139,6 +139,19 @@ body {
     margin: 0;
 }
 
+.baner-area.baner-product {
+    background: url(images/baner4.png) no-repeat center center #2F2D38;
+    background-size: cover;
+    color: #fff;
+}
+
+.baner-product .baner-btn a {
+    padding: 15px 50px;
+    font-size: 24px;
+    background-color: #CB314B;
+
+}
+
 /*
 .baner-area:after{
 	position: absolute;
@@ -796,6 +809,83 @@ body {
 .sidemenu a {
     font-size: 20px;
     color: #F4443D;
+}
+
+
+/**/
+.bg-yellow {
+    padding: 30px;
+}
+
+.bg-yellow .maine-section {
+    background: url(images/img3.png) no-repeat left center #FFD145;
+
+}
+
+.bg-dark .maine-section {
+    background-color: #2F2D3A;
+    color: #fff;
+}
+
+.bg-light .maine-section {
+    background-color: #E6DBC7;
+}
+
+.bg-white .maine-section {
+    background-color: #fff;
+}
+
+.bg-gray .maine-section {
+    background-color: #f5f5f5;
+}
+
+.bg-gray .maine-section h4 {
+    padding-top: 100px;
+    line-height: 36px;
+}
+
+.bg-gray .maine-section h4 a {
+    color: #F4443D;
+}
+
+.bg-blue .maine-section {
+    background: url(images/baner5.png) no-repeat top center;
+}
+
+.bg-blue p {
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 24px;
+}
+
+.bg-white .course {
+    text-align: center;
+}
+
+.bg-white .course h2 {
+    padding: 20px;
+    color: #F4443D;
+}
+
+.bg-white .course p {
+    padding: 0 40px;
+}
+
+.bg-yellow .section-text h2 {
+    font-size: 38px;
+    line-height: 44px;
+    margin-bottom: 20px;
+}
+
+.bg-yellow .section-text h4 {
+    font-weight: normal;
+}
+
+.bg-light .section-text h4 {
+    margin-bottom: 40px;
+    font-weight: normal;
+    line-height: 32px;
 }
 
 /*maine-section volunteer*/
